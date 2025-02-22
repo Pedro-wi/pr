@@ -1,0 +1,6 @@
+#iclude <studio.h> 
+
+int main() {
+printf("play mundo!\n");
+return 0;
+}
